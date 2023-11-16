@@ -260,7 +260,7 @@ redis==4.5.4
     # via apache-superset
 rich==13.3.4
     # via flask-limiter
-selenium==3.141.0
+selenium==4.15.1
     # via apache-superset
 shortid==0.1.2
     # via apache-superset
