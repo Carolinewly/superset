@@ -94,7 +94,7 @@ pyinstrument==4.4.0
     # via -r requirements/development.in
 pylint==2.9.6
     # via -r requirements/development.in
-requests==2.30.0
+requests==2.32.0
     # via
     #   pydruid
     #   tableschema
