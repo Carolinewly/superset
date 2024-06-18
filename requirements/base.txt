@@ -299,7 +299,7 @@ typing-extensions==4.4.0
     #   apache-superset
     #   flask-limiter
     #   limits
-urllib3==1.26.6
+urllib3==1.26.19
     # via selenium
 vine==5.0.0
     # via
