@@ -88,7 +88,7 @@ flask==2.2.5
     #   flask-migrate
     #   flask-sqlalchemy
     #   flask-wtf
-flask-appbuilder==4.3.0
+flask-appbuilder==4.5.3
     # via apache-superset
 flask-babel==1.0.0
     # via flask-appbuilder
@@ -146,7 +146,7 @@ itsdangerous==2.1.2
     # via
     #   flask
     #   flask-wtf
-jinja2==3.1.2
+jinja2==3.1.6
     # via
     #   flask
     #   flask-babel
