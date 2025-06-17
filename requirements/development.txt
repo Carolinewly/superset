@@ -38,7 +38,7 @@ et-xmlfile==1.1.0
     # via openpyxl
 executing==1.2.0
     # via stack-data
-flask-cors==3.0.10
+flask-cors==6.0.0
     # via apache-superset
 future==0.18.3
     # via pyhive
@@ -94,7 +94,7 @@ pyinstrument==4.4.0
     # via -r requirements/development.in
 pylint==2.9.6
     # via -r requirements/development.in
-requests==2.30.0
+requests==2.32.4
     # via
     #   pydruid
     #   tableschema
